@@ -1,2 +1,2 @@
-# companyprofile
-software house | sraftechno 
+# CV
+portofolioku
